@@ -1,4 +1,4 @@
-/* implementation of the algorithm 
+/* Implementation of the algorithm
  * 
   D. Conte, L. Ixaru, B. Paternoster, G. Santomauro:
     Exponentially-fitted Gauss–Laguerre quadrature rule for integrals over an unbounded interval.

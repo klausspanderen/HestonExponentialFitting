@@ -3,7 +3,7 @@
   D. Conte, L. Ixaru, B. Paternoster, G. Santomauro:
     Exponentially-fitted Gauss–Laguerre quadrature rule for integrals over an unbounded interval.
     
-  https://www.sciencedirect.com/science/article/pii/S0377042713003385
+  https://hpcquantlib.wordpress.com/2020/05/17/optimized-heston-model-integration-exponentially-fitted-gauss-laguerre-quadrature-rule/
  
  
   Some tweaks to the algorithm are outlined in 

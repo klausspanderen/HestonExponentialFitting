@@ -5,9 +5,6 @@
     
   https://hpcquantlib.wordpress.com/2020/05/17/optimized-heston-model-integration-exponentially-fitted-gauss-laguerre-quadrature-rule/
  
- 
-  Some tweaks to the algorithm are outlined in 
-  https://wordpress.com/post/hpcquantlib.wordpress.com/4557
   
     Copyright (c) 2020, Klaus Spanderen
     All rights reserved.
